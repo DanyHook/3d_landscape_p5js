@@ -1,5 +1,5 @@
 # 3d_landscape_p5js
-Artistical aproach to 2D shaders
+Artistic approach to 2D shaders
 # 🌄 Generative Landscapes Shader – Creative Coding Challenge
 
 ![Challenge](https://img.shields.io/badge/Challenge-Creative%20Coding%20Weekly-blueviolet)
@@ -41,7 +41,7 @@ The sketch uses **p5.js** and custom **GLSL shaders** (`vert.glsl` and `frag.gls
 ```
 /project-folder
 │
-├── sketch.js         # p5.js main file
+├── mySketch.js         # p5.js main file
 ├── vert.glsl         # Vertex shader
 ├── frag.glsl         # Fragment shader
 └── index.html        # Basic HTML shell to embed the canvas
@@ -58,7 +58,7 @@ The canvas adjusts to device pixel ratio (`window.devicePixelRatio`) and resizes
 ## 🚀 How to Run
 
 1. Ensure you have an HTTP server (local or remote).
-2. Place all files (`index.html`, `sketch.js`, `vert.glsl`, `frag.glsl`) in the same folder.
+2. Place all files (`index.html`, `mySketch.js`, `vert.glsl`, `frag.glsl`) in the same folder.
 3. Open `index.html` in a browser that supports **WebGL2**.
 4. Enjoy the animated generative landscape.
 
