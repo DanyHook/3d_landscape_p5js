@@ -1,0 +1,20 @@
+{
+  "name": "3d_landscape_p5js",
+  "version": "1.0.0",
+  "description": "Artistical aproach to 2D shaders # 🌄 Generative Landscapes Shader – Creative Coding Challenge",
+  "main": "mySketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.0.2",
+    "jsdom": "^26.1.0"
+  },
+  "dependencies": {
+    "p5": "^2.0.3"
+  }
+}
